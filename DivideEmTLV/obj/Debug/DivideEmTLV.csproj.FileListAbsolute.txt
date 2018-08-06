@@ -1,0 +1,9 @@
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\bin\Debug\DivideEmTLV.exe.config
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\bin\Debug\DivideEmTLV.exe
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\bin\Debug\DivideEmTLV.pdb
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\obj\Debug\DivideEmTLV.csprojResolveAssemblyReference.cache
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\obj\Debug\DivideEmTLV.Form1.resources
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\obj\Debug\DivideEmTLV.Properties.Resources.resources
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\obj\Debug\DivideEmTLV.csproj.GenerateResource.Cache
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\obj\Debug\DivideEmTLV.exe
+c:\users\macedofl\documents\visual studio 2015\Projects\DivideEmTLV\DivideEmTLV\obj\Debug\DivideEmTLV.pdb
